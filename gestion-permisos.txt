@@ -1,0 +1,21 @@
+Gestion de Permisos
+
+
+     |	  7    |     7	  |    7    |
+     | 4  2  1 |  4  2  1 | 4  2  1 |
+     | R  W  X |  R  W  X | R  W  X |
+     |_________|__________|_________|
+     | OWNER   |   GROUP  |  USER   |
+     |_________|__________|_________|
+
+
+
+R = 4
+W = 2
+X = 1
+
+
+
+Ejemplo:
+
+chmod 755  ->  rwx-r-x-r-x
